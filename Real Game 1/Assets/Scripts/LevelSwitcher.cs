@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class LevelSwitcher : MonoBehaviour {
+public class Level2Switch : MonoBehaviour {
 
 	public string nextLevel;
 	// Update is called once per frame
