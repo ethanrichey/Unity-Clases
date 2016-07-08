@@ -13,6 +13,7 @@ public class CoinController : MonoBehaviour {
 			McFallen.GetComponent<AudioSource> ().Stop();
 			McFallen.GetComponent<AudioSource> ().Play();
 			GameObject.Destroy (gameObject);
+			GameObject.Destroy (this);
 		}
 	}
 
