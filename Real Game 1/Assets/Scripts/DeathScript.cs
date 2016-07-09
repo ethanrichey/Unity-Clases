@@ -6,11 +6,13 @@ public class DeathScript : MonoBehaviour {
 	public string nextLevel;
 
 
-	void OnCollisionEnter(Collision col) {
-
+	void OnTriggerEnter(Collider col) {
+		Debug.Log ("Collided");
 		if (col.gameObject.tag == "Enemy") {
 			SceneManager.LoadScene (nextLevel);
+			Debug.Log ("Detected");
 		}
+	
 
 
 	}

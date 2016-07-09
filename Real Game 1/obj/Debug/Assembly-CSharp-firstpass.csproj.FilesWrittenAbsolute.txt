@@ -1,0 +1,17 @@
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/UnityEngine.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/UnityEditor.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/league/Desktop/Unity-Clases/Real Game 1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
